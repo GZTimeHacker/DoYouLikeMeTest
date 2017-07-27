@@ -1,0 +1,14 @@
+﻿<Window x:Class="TEST.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TEST"
+        mc:Ignorable="d"
+        Title="问你个问题" Height="175.505" Width="398.684" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="你喜欢我吗？" HorizontalAlignment="Left" Height="37" Margin="10,10,0,0" VerticalAlignment="Top" Width="146" IsEnabled="False" Foreground="Black" FontSize="20"/>
+        <Button x:Name="like" Content="喜欢" HorizontalAlignment="Left" Height="24" Margin="214,98,0,0" VerticalAlignment="Top" Width="60" IsDefault="True" Cursor="Hand" Click="like_Click"/>
+        <Button x:Name="dislike" Content="不喜欢" HorizontalAlignment="Left" Height="24" Margin="296,98,0,0" VerticalAlignment="Top" Width="60" Cursor="Hand" MouseEnter="dislike_MouseEnter"/>
+    </Grid>
+</Window>
