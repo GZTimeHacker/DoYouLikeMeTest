@@ -12,3 +12,17 @@ G:\Project\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
 G:\Project\TEST\TEST\obj\Debug\TEST.csproj.GenerateResource.Cache
 G:\Project\TEST\TEST\obj\Debug\TEST.exe
 G:\Project\TEST\TEST\obj\Debug\TEST.pdb
+G:\Project\GitHub\DoYouLikeMe\TEST\bin\Debug\TEST.exe.config
+G:\Project\GitHub\DoYouLikeMe\TEST\bin\Debug\TEST.exe
+G:\Project\GitHub\DoYouLikeMe\TEST\bin\Debug\TEST.pdb
+G:\Project\GitHub\DoYouLikeMe\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+G:\Project\GitHub\DoYouLikeMe\TEST\obj\Debug\MainWindow.g.cs
+G:\Project\GitHub\DoYouLikeMe\TEST\obj\Debug\App.g.cs
+G:\Project\GitHub\DoYouLikeMe\TEST\obj\Debug\TEST_MarkupCompile.cache
+G:\Project\GitHub\DoYouLikeMe\TEST\obj\Debug\TEST_MarkupCompile.lref
+G:\Project\GitHub\DoYouLikeMe\TEST\obj\Debug\MainWindow.baml
+G:\Project\GitHub\DoYouLikeMe\TEST\obj\Debug\TEST.g.resources
+G:\Project\GitHub\DoYouLikeMe\TEST\obj\Debug\TEST.Properties.Resources.resources
+G:\Project\GitHub\DoYouLikeMe\TEST\obj\Debug\TEST.csproj.GenerateResource.Cache
+G:\Project\GitHub\DoYouLikeMe\TEST\obj\Debug\TEST.exe
+G:\Project\GitHub\DoYouLikeMe\TEST\obj\Debug\TEST.pdb
